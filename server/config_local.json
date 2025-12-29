@@ -3,7 +3,7 @@
   "port": 8000,
   "nb_worlds": 1,
   "nb_players_per_world": 50,
-  "map_filepath": "./server/maps/map.json",
+  "map_filepath": "./server/js/map.js",
   "debug_level": "info",
   "metrics_enabled": false
 }
