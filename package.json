@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": false,
   "engines": {
-    "node": "16.x"
+    "node": "12.x"
   },
   "dependencies": {
     "underscore": ">0",
